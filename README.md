@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Yogesh%20Gaikwad&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Dublin%2C%20Ireland%20🇮🇪&descAlignY=58&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Yogesh%20Gaikwad&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Dublin%2C%20Ireland%20🇮🇪&descAlignY=58&descSize=18"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=900&height=70&lines=TypeScript+%E2%80%A2+Node.js+%E2%80%A2+React+%E2%80%A2+Next.js+🚀;60%25+less+manual+effort+%7C+41%25+better+reliability+💪;Building+APIs+%26+systems+that+actually+scale+⚡;Open+to+Full-Stack+%26+Backend+roles+in+Ireland+🇮🇪;1.01%C2%B3%E2%81%B6%E2%81%B5+%E2%89%AB+1.00%C2%B3%E2%81%B6%E2%81%B5+—+Compound+daily+🐢)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=900&height=70&lines=Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+AWS+%E2%80%A2+Distributed+Systems+🚀;50%2C000%2B+users+served+%7C+99.9%25+uptime+maintained+💪;45%25+latency+reduction+%7C+83%25+faster+deployments+⚡;Open+to+Backend+%26+Software+Engineering+roles+in+Ireland+🇮🇪;1.01%C2%B3%E2%81%B6%E2%81%B5+%E2%89%AB+1.00%C2%B3%E2%81%B6%E2%81%B5+—+Compound+daily+🐢)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,21 +24,23 @@
 
 ```js
 const yogesh = {
-    location: "Dublin, Ireland 🇮🇪",
-    role: "Full-Stack Software Engineer",
-    experience: "2.5 years commercial",
-    stack: ["TypeScript", "Node.js", "React", "Next.js", "PostgreSQL", "AWS"],
+    location:    "Dublin, Ireland 🇮🇪",
+    role:        "Software Engineer | Distributed Systems & Backend Infrastructure",
+    experience:  "3 years commercial (Tata Communications + Tata Elxsi)",
+    stack:       ["TypeScript", "Node.js", "Python", "PostgreSQL", "Redis", "AWS", "Docker", "Kubernetes"],
     impact: {
-        efficiency:   "60% reduction in manual operational effort",
-        reliability:  "41% improvement in system reliability",
-        engagement:   "30% increase in user engagement",
-        performance:  "35% faster API response times"
+        users:        "50,000+ enterprise users supported across production systems",
+        uptime:       "99.9% SLA maintained across Fortune 500 clients",
+        latency:      "45% reduction in system latency",
+        deployments:  "83% faster deployment cycles via CI/CD",
+        throughput:   "60% throughput increase via event-driven architecture",
+        infra_cost:   "25% infrastructure cost savings (~$30K annually)"
     },
-    education:    "MSc Information Systems — Dublin Business School (Feb 2026)",
-    status:       "Stamp 1G ✅ — Available Immediately",
-    openTo:       "Full-Stack, Backend & Software Engineering roles in Ireland"
+    education:   "MSc Information Systems — Dublin Business School (Feb 2026)",
+    status:      "Stamp 1G ✅ — Available Immediately",
+    openTo:      "Backend, Distributed Systems & Software Engineering roles in Ireland"
 };
-console.log("Shipping clean code and scalable systems 🚀");
+console.log("Building fault-tolerant systems at scale 🚀");
 ```
 
 </div>
@@ -60,15 +62,13 @@ console.log("Shipping clean code and scalable systems 🚀");
   <img src="https://img.shields.io/badge/🟢_ACTIVE-Project-success?style=for-the-badge" />
 </a>
 
-Full-stack AI-powered document reader & chatbot
+AI-powered car dealership management platform
 
 ```yaml
-Backend:    TypeScript + Node.js
-Frontend:   React + Next.js
-Auth:       JWT Authentication
-AI:         AI-powered chatbot
-APIs:       RESTful architecture
-Impact:     50% reduction in user search time
+Backend:    Node.js + JavaScript
+AI Layer:   OpenAI API integration
+APIs:       RESTful CRUD (vehicles, clients, transactions)
+Impact:     Automates client comms & data entry end-to-end
 ```
 
 [📂 GitHub Repo](https://github.com/imyogeshgaikwad/CAReader-Ai)
@@ -77,17 +77,16 @@ Impact:     50% reduction in user search time
 
 ### 🔥 Detecting-Humans-in-Fire
 <a href="https://github.com/imyogeshgaikwad/Detecting-Humans-In-Fire">
-  <img src="https://img.shields.io/badge/🟢_ACTIVE-Project-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🟢_MSc_Research-Project-orange?style=for-the-badge" />
 </a>
 
-Real-time fire emergency human detection system
+Dual-model computer vision system for fire emergency detection
 
 ```yaml
-Backend:    Python + FastAPI
-ML:         TensorFlow image recognition
-API:        Real-time REST predictions
-Purpose:    Fire emergency detection
-Type:       Computer Vision
+Model 1:    EfficientNetB0 — 90.9% fire detection accuracy
+Model 2:    YOLOv8 — 90.8% human detection accuracy
+Output:     4-state situational risk assessment
+Deploy:     Flask web app, fully in-memory processing
 ```
 
 [📂 GitHub Repo](https://github.com/imyogeshgaikwad/Detecting-Humans-In-Fire)
@@ -141,29 +140,29 @@ Type:       Full-stack web app
 
 <br>
 
-## 💼 Professional Impact
+## 💼 Production Impact
 
 <div align="center">
 
-| ⚡ Efficiency | 🎯 Reliability | 📈 Engagement | 🚀 Performance |
-|:------------:|:--------------:|:-------------:|:--------------:|
-| **60% less effort** | **41% improved** | **30% increase** | **35% faster** |
-| Automated pipelines | React IoT dashboard | Cloud-based APIs | Middleware optimisation |
-| Sheets → Firebase | 99% uptime APIs | Google Chat responses | High-traffic handling |
+| 🧑‍💻 Scale | ⚡ Latency | 🚀 Deployments | 💰 Cost |
+|:---------:|:---------:|:--------------:|:-------:|
+| **50,000+ users** | **45% reduction** | **83% faster** | **25% savings** |
+| Enterprise production systems | 500ms → 300ms APIs | 2 hrs → 20 mins | ~$30K/year saved |
 
 </div>
 
 ```diff
-@@ Commercial Achievements @ Tata Communications & Tata Elxsi @@
+@@ Key Achievements @ Tata Communications & Tata Elxsi @@
 
-+ Chatbot Efficiency:   50% improvement via TypeScript + Dialogflow integration
-+ Data Automation:      60% manual effort eliminated with Cloud Functions pipelines
-+ User Engagement:      30% increase through rich Google Chat API responses
-+ Response Times:       15% faster customer support via Agent Assist integration
-+ API Performance:      35% reduction in latency under high-traffic conditions
-+ System Reliability:   41% MTTR improvement with React.js IoT production dashboard
-+ Security:             RBAC implementation strengthening access compliance
-+ Uptime:               99% maintained on RESTful authentication APIs
++ API Scale:         25,000+ daily requests handled across telecom infrastructure
++ DB Optimisation:  PostgreSQL query latency cut from 850ms → 300ms (65%) across 10M+ records
++ Throughput:       60% improvement via event-driven job processing & message queues
++ Uptime:           99.9% SLA maintained for Fortune 500 enterprise clients
++ CI/CD:            Deployment cycles cut from 2 hours to 20 minutes (83% faster)
++ Observability:    35% MTTR reduction via CloudWatch metrics & centralised logging
++ Microservices:    Decomposed monolith into 6 independent services — 30% fewer regressions
++ Real-time:        Redis Pub/Sub + WebSockets supporting 5,000+ concurrent connections
++ Infra Cost:       25% reduction (~$30K annually) through container right-sizing
 ```
 
 <br>
@@ -180,38 +179,41 @@ Type:       Full-stack web app
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Backend & APIs
+### Backend Systems
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### Frontend
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Message Queues](https://img.shields.io/badge/Message_Queues-FF4F00?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### AI & Automation
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Tools & Workflow
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+### AI & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Frontend
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 </div>
 
@@ -247,39 +249,40 @@ gantt
     title Career Journey
     dateFormat  YYYY-MM
     section Education
-    B.Tech IT — SVKM India           :2019-08, 2023-02
+    B.Tech IT — SVKM India           :2019-06, 2023-05
     MSc Information Systems — DBS    :2024-04, 2026-02
     section Professional
-    Software Engineer Intern - Tata Elxsi    :2021-12, 2022-09
-    Full-Stack Engineer - Tata Communications:2022-10, 2025-04
+    Software Engineer (Intern) — Tata Elxsi      :2021-07, 2022-06
+    Software Engineer — Tata Communications      :2022-07, 2024-08
 ```
 
 </div>
 
 <details>
-<summary><b>🏢 Full-Stack Software Engineer @ Tata Communications (Oct 2022 – Apr 2025)</b></summary>
+<summary><b>🏢 Software Engineer @ Tata Communications (Jul 2022 – Aug 2024)</b></summary>
 <br>
 
-**Global Technology & Digital Infrastructure Leader**
+**Global Telecom & Digital Infrastructure Leader**
 
-- 🤖 Built **TypeScript + Node.js** backend with custom **Dialogflow** chatbot modules — **50% boost** in response efficiency
-- ⚙️ Automated **Google Sheets → Firebase** pipelines via **Cloud Functions** — eliminated **60% of manual data entry**
-- 📡 Developed **cloud-based APIs** delivering rich responses in **Google Chat** — **30% increase** in user engagement
-- 🎙️ Integrated **Agent Assist** for voice virtual agents — **15% faster** customer response times
-- 📋 Delivered features across **Agile Scrum** sprints with consistent on-time delivery via **Jira**
+- ⚙️ Designed and deployed scalable REST APIs handling **25,000+ daily requests**, improving average response time by **40%** (500ms → 300ms) via Redis caching & query optimisation
+- 🔄 Architected **event-driven background job processing** using message queues & worker services, boosting system throughput by **60%** for 50,000+ enterprise users
+- 🐳 Implemented **horizontal scaling** with Docker + AWS EC2 auto-scaling groups, achieving **99.9% uptime SLA** for Fortune 500 clients
+- 🗄️ Optimised **PostgreSQL queries** across 10M+ records — reduced critical query latency from 850ms → 300ms (**65% reduction**)
+- 🚀 Built end-to-end **CI/CD pipeline** with GitHub Actions — deployment cycles from 2 hours to 20 minutes (**83% faster**)
+- 📊 Instrumented production with **CloudWatch** metrics & centralised logging — **35% MTTR reduction**
 
 </details>
 
 <details>
-<summary><b>💻 Software Engineer Intern @ Tata Elxsi (Dec 2021 – Sep 2022)</b></summary>
+<summary><b>💻 Software Engineer (Internship) @ Tata Elxsi (Jul 2021 – Jun 2022)</b></summary>
 <br>
 
 **Global Design & Technology Services Company**
 
-- 🔗 Designed and implemented **RESTful APIs** for auth, feedback & issue reporting — **99% uptime** maintained
-- ⚡ Optimised **middleware layer** — **35% reduction** in API response times under high-traffic conditions
-- 🔐 Implemented **Role-Based Access Control (RBAC)** — strengthening security and compliance
-- 📊 Built **React.js IoT dashboard** for Tata Motors — **41% improvement** in mean time to resolve production issues
+- 🧩 Engineered **modular microservices architecture** supporting 15,000+ active users with JWT auth, adaptive rate limiting & fault isolation
+- 📡 Built **real-time notification service** using Redis Pub/Sub + WebSockets — 5,000+ concurrent connections at sub-150ms latency
+- 💰 Reduced **infrastructure costs by 25%** (~$30K annually) through container right-sizing and intelligent resource allocation
+- 🔧 Led **monolith decomposition** into 6 independent service modules — reduced regression issues by 30%, hotfixes from 8/month to under 3
 
 </details>
 
@@ -297,24 +300,26 @@ gantt
 
 ### 🏛️ Dublin Business School 🇮🇪
 **MSc in Information Systems with Computing**
-*Apr 2024 – Feb 2026 (Graduating this month!)*
+*Apr 2024 – Feb 2026 — First Class Honours*
 
-**Focus Areas:**
-- Software Engineering & Architecture
-- Information Systems Design
-- Cloud Computing & Databases
+**Core Modules:**
+- Distributed Systems
+- Cloud Architecture & Scalable Computing
+- Database Engineering
+- Software Design Patterns
 
 </td>
 <td width="50%">
 
 ### 🏛️ SVKM Institute of Technology 🇮🇳
 **B.Tech in Information Technology**
-*Aug 2019 – Feb 2023*
+*Jun 2019 – May 2023 — First Class Honours*
 
-**Focus Areas:**
-- Full-Stack Development
+**Core Modules:**
 - Data Structures & Algorithms
-- Software Engineering
+- Operating Systems & Computer Networks
+- Database Management Systems
+- Object-Oriented Programming
 
 </td>
 </tr>
@@ -336,11 +341,11 @@ gantt
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on **CAReader-AI** — building smarter document interaction with AI
-- 🌱 Currently learning **System Design at Scale**, **Cloud Architecture (AWS)**, **AI integrations in production**
-- 🤝 Open to collaborating on **open-source tools, SaaS products & developer utilities**
-- 💬 Ask me about **TypeScript, Node.js APIs, React, backend architecture, AWS**
-- 📫 Reach me at **imyogeshgaikwad@gmail.com** | 📞 **+353 874 925777**
+- 🔭 Currently building **Detecting-Humans-in-Fire** — MSc applied research using dual computer vision models for fire safety
+- 🌱 Deep-diving into **Distributed Systems Design**, **AWS cloud-native infrastructure**, and **production reliability engineering**
+- 🤝 Open to collaborating on **open-source backend tools, scalable APIs & developer utilities**
+- 💬 Ask me about **Node.js, TypeScript, distributed systems, PostgreSQL optimisation, AWS, Docker**
+- 📫 Reach me at **imyogeshgaikwad@gmail.com** | 📞 **+353 87 492 5777**
 - 📍 Based in **Dublin, Ireland** — available immediately (Stamp 1G)
 - ⚡ Fun fact: **1.01³⁶⁵ ≫ 1.00³⁶⁵** — consistent 1% improvements compound into extraordinary results 🐢
 
@@ -360,7 +365,7 @@ gantt
 
 ### 💭 Open To
 
-Full-Stack Engineering • Backend Development • Software Engineering Roles
+Backend Engineering • Distributed Systems • Software Engineering Roles
 **Actively seeking opportunities in Ireland 🇮🇪**
 
 </div>
